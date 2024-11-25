@@ -33,3 +33,11 @@ https://smu.sharepoint.com/:f:/r/teams/FSBSPeerLearningGroup/Shared%20Documents/
 3. Installation guide can be found at "Day 1 - Introduction to Git", slides 21-29.
 
 4. We'll do the rest during the session itself. See you there!
+
+## Git Tower
+
+If you prefer to use a GUI client, you can try Git Tower.
+
+Here's the link to the [student version](https://www.git-tower.com/students/)
+
+Works in mac and Windows
