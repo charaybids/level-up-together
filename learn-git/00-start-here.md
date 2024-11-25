@@ -9,8 +9,8 @@ WE recommend the following resources. You don't have to do all. Just pick one an
 
 | Resource| Link | Remarks |
 |------|----------|--------|
-| Udemy | https://smusg.udemy.com/share/10cdG33@e98xmA8vDJH2z_46Xb7gTEF0JAp1mKvjm5e6e18yBUAnCNFChFgztkPjZ2iAkD0R_w==/ | - Free udemy access for those who are in SMU.<br>- Got video<br >- Might take up to 5 hrs |
-| GitHub's own Getting Started | https://docs.github.com/en/get-started | - Free access for anyone.<br>- No video |
+| Udemy | [link](https://smusg.udemy.com/share/10cdG33@e98xmA8vDJH2z_46Xb7gTEF0JAp1mKvjm5e6e18yBUAnCNFChFgztkPjZ2iAkD0R_w==/) | - Free udemy access for those who are in SMU.<br>- Got video<br >- Might take up to 5 hrs |
+| GitHub's own Getting Started | [link](https://docs.github.com/en/get-started) | - Free access for anyone.<br>- No video |
 
 ## Udemy
 1. SMU offers free Udemy Business subscription
