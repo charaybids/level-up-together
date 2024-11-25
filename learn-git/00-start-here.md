@@ -14,7 +14,7 @@ https://smu.sharepoint.com/:f:/r/teams/FSBSPeerLearningGroup/Shared%20Documents/
    Membership will take awhile to approve, but meanwhile do have an account ready so we can follow along with the course.
    You can add your SMU email to your personal account afterwards to get the free Pro version (that's what I did).
 
-2. Optional but it'd be good to have Git & VS Code installed on your local machines prior to the peer learning session (we only have   2 hours so chop chop). If not, no worries you can get that done on the day itself too.
+2. Optional but it'd be good to have Git & VS Code installed on your local machines prior to the peer learning session (we only have 2 hours so chop chop). If not, no worries you can get that done on the day itself too.
 
 3. Installation guide can be found at "Day 1 - Introduction to Git", slides 21-29.
 
