@@ -1,0 +1,27 @@
+
+flowchart TD
+    Start([Input: Project Requirements & Team Info]) --> Step1
+
+    subgraph Step1[Step 1]
+        PP[Project Planner Agent] --> TB[Task Breakdown]
+    end
+
+    subgraph Step2[Step 2]
+        EA[Estimation Analyst Agent] --> TE[Time Estimation]
+    end
+
+    subgraph Step3[Step 3]
+        AS[Allocation Strategist Agent] --> RA[Resource Allocation]
+    end
+
+    Step1 --> |Passes task list| Step2
+    Step2 --> |Passes tasks with estimates| Step3
+    Step3 --> FinalPlan[Final Project Plan]
+
+    classDef agent fill:#ff9999,stroke:#333,stroke-width:2px
+    classDef task fill:#ff7777,stroke:#333,stroke-width:2px
+    classDef step fill:#fff,stroke:#333,stroke-width:2px
+
+    class PP,EA,AS agent
+    class TB,TE,RA task
+    class Step1,Step2,Step3 step
