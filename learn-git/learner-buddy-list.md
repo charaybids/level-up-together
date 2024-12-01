@@ -15,3 +15,4 @@ Create a Pull Request to add your name and Github nickname, and progress
 | Name | Nickname | Cohort |
 |------|----------|--------|
 |Kimsia S.| @simkimsia | August 2024 |
+|Justin Ng| @Charaybids | August 2024 |
